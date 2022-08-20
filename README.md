@@ -1,7 +1,7 @@
 - Hi, I’m Miklos Gyori @miklosgyori.
-- I’m a cognitive psychologist, a (former) academic now on the move to software development.
-- I’m currently learning software engineering and development @ Gabor Deenis College, Budapest, Hungary.
-- In the current focus of my interest, there are:
+- I’m a cognitive psychologist, a (former) academic right now on the move to software development.
+- I’m currently learning software engineering and development @ Gabor Dennis College, Budapest, Hungary.
+- In the current main focus of my interest, there are:
     - JAVA
     - C++
     - C#
