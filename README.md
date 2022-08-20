@@ -1,14 +1,14 @@
 - Hi, I’m Miklos Gyori @miklosgyori.
-- I’m a cognitive psychologist, a (former) academic right now on the move to software development.
+- I’m a cognitive psychologist, a (former) academic, right now on the move to software development.
 - I’m currently learning software engineering and development @ Gabor Dennis College, Budapest, Hungary.
-- In the current main focus of my interest & learning, there are:
+- In the current main focus of my interest & learning, there are
     - JAVA
     - C++
     - C#
     - Python
     - SQL
     - JavaScript.
-- My broader interest in technologies include:
+- My broader interest in technologies include
     - assistive technologies, especially for people with autism
     - functional programming
     - automated emotion recognition
